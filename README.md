@@ -1,5 +1,5 @@
 # Delegate-Calculator
-  Activity Hands-On
+  Laboratory Exercise
 
-On this activity we are tasked to do a calculator using visual studio using generic delegates and event
+On this activity we are tasked to do a calculator using with generic delegates and event.
 
